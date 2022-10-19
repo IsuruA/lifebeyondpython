@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
   long result;
 
   // Ask for number
-  printf("Enter a number:\n");
+  printf("Enter a number: ");
   scanf("%d", &N);
 
   // Compute sum of consecutive integers from 1 to that number (inclusive)
